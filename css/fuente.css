@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none
+    }
+    body {
+    font-family: verdana;
+    font-size: 1.2em;
+    }
+    p {
+    font-family: arial, verdana, sans-serif;
+    font-size: 1em;
+    }
+    h1 {
+    font-size: x-large
+    }
+    .primero {
+    font-size: 12px;
+    }
